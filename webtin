@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+CMD="/bin/sleep 1; /usr/local/bin/tt++ -G ~/data/config.tin"
+
+ttyd -p 3000 -t 'theme={"background":"black"}' sh -c "${CMD}"
