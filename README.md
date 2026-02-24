@@ -1,5 +1,7 @@
 # WebTin++
 
+[TinTin++ Web Container](https://github.com/robarnes/ttyd-tintin) is a more up to date alternative to WebTin++, and should be used instead. The security instructions in this document are still worth taking note of.
+
 ## Depends
 
 [TinTin++](https://tintin.mudhalla.net)
